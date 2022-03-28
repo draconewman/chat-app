@@ -8,5 +8,5 @@ It works fine as clients come and go. Clients are able to send messages in the f
 (ii) Broadcast
 
 Languages used: HTML, CSS, JS
-Frameworks used: Node JS, Nodemon, Socket IO
+Frameworks used: Node.js, Socket.IO
 ```
